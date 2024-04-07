@@ -7,7 +7,7 @@ Checkout this specific commit ID:
 
 
 (c) Copy code from our repo in github.
-https://github.com/fan-14/app
+https://github.com/ylyanlin/organicmaps.git
 
 You can find organicmaps in app folder. copy organicmaps folder to the repo cloned in the previous step, merge and overwrite the folder.
 
