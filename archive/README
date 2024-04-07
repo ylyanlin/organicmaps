@@ -1,0 +1,20 @@
+Since the OrganicMaps app code base is very large, we will clone the repository
+from the developer's repo.
+
+1. Clone repo:
+$ git clone git@github.com:organicmaps/organicmaps.git
+
+2. Checkout tag 2022.05.31-10-android:
+$ git checkout 2022.05.31-10-android
+
+3. Create branch by following instructions mentioned after checking out tag
+
+4. Replace the files in their respective directories
+├── organicmaps
+│   ├── android
+│   ├── CMakeLists.txt
+│   ├── libflush
+│   ├── oatparser
+│   └── sidechannel_native
+
+5. Build release apk using Android Studio
